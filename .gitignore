@@ -1,0 +1,5 @@
+EMOVO_dataset/aug_df.pkl
+EMOVO_dataset/semi_aug_df.pkl
+EMOVO_dataset/not_aug_df.pkl
+.venv
+documents/_

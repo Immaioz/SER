@@ -3,3 +3,7 @@ EMOVO_dataset/semi_aug_df.pkl
 EMOVO_dataset/not_aug_df.pkl
 .venv
 documents/_
+.venv2
+RAVDESS
+models
+data

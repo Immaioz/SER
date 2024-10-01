@@ -5,5 +5,5 @@ EMOVO_dataset/not_aug_df.pkl
 documents/_
 .venv2
 RAVDESS
-models
+model
 data
